@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="D:\xampp\htdocs\template_beta\TB_100\TB_125_PS_Furniture_Vokes\themes\TB_125_PS_Furniture_Vokes\templates\_partials\tbcms-main-title.tpl" source-language="it-IT" target-language="it-IT" datatype="plaintext">
+    <body>
+      <trans-unit id="d15b505cce09406de9f918cb1f8c641c">
+        <source>Collection</source>
+        <target>Collection</target>
+        <note>Context:
+File: D:\xampp\htdocs\template_beta\TB_100\TB_125_PS_Furniture_Vokes\themes\TB_125_PS_Furniture_Vokes\templates\_partials\tbcms-main-title.tpl:43</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/en/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/en/blog/feed.xml</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="https://www.prestashop.com/en/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>How To Create A Social Media Calendar</title>
+    <link>https://www.prestashop.com/en/blog/create-social-media-calendar</link>
+    <description>We all know that promoting our businesses on social media is an important part of reaching and expanding our customer base, but great intentions can slide away from us in the absence of a strategic</description>
+     <pubDate>Fri, 26 Jul 2019 10:20:45 +0200</pubDate>
+ <dc:creator>Teapot</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/create-social-media-calendar</guid>
+  </item>
+  <item>
+    <title>Why do mobile shoppers prefer a simplified payment method?</title>
+    <link>https://www.prestashop.com/en/blog/simplified-payment-method</link>
+    <description>The arrival of smartphones has radically changed e-shoppers’ purchasing habits. The number of people buying online using their mobile phone has increased considerably over recent years.</description>
+     <pubDate>Wed, 24 Jul 2019 11:08:47 +0200</pubDate>
+ <dc:creator>Yateo EN</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/simplified-payment-method</guid>
+  </item>
+  <item>
+    <title>How to build a brand story through storytelling?</title>
+    <link>https://www.prestashop.com/en/blog/brand-story-through-storytelling</link>
+    <description>Storytelling is a powerful form of human communication. We have used storytelling in sharing our history, expressing our feelings, and telling people our purpose.</description>
+     <pubDate>Mon, 22 Jul 2019 10:45:27 +0200</pubDate>
+ <dc:creator>Invertus</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/brand-story-through-storytelling</guid>
+  </item>
+  <item>
+    <title>PSD2 Is Coming to the EU – Are You Ready?</title>
+    <link>https://www.prestashop.com/en/blog/psd2-coming-to-eu</link>
+    <description>Companies that sell in the European Union have dealt with many changes over the years to payment services, cross-market regulations, and individual country mandates.</description>
+     <pubDate>Fri, 19 Jul 2019 14:11:59 +0200</pubDate>
+ <dc:creator>JackieLong</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/psd2-coming-to-eu</guid>
+  </item>
+  <item>
+    <title>Essential inventory management tips for eCommerce businesses</title>
+    <link>https://www.prestashop.com/en/blog/inventory-management-tips</link>
+    <description>Inventory management sounds as straightforward as it gets. You stock your stores and warehouses with products you can sell to your customers.</description>
+     <pubDate>Wed, 17 Jul 2019 10:44:29 +0200</pubDate>
+ <dc:creator>Samantha Novick</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/inventory-management-tips</guid>
+  </item>
+  <item>
+    <title>Discover the Customer Reviews module available in version 1.7.6 of PrestaShop!</title>
+    <link>https://www.prestashop.com/en/blog/customer-reviews-module</link>
+    <description>Reassurance on an online store plays a huge part in building trust between merchants and visitors.</description>
+     <pubDate>Mon, 15 Jul 2019 12:13:57 +0200</pubDate>
+ <dc:creator>Coline Ginestet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/customer-reviews-module</guid>
+  </item>
+  <item>
+    <title>New features, developments, advanced functionalities, download PrestaShop 1.7.6 now!</title>
+    <link>https://www.prestashop.com/en/blog/prestashop-1-7-6</link>
+    <description>So, what&#039;s new in version 1.7.6?</description>
+     <pubDate>Tue, 09 Jul 2019 16:23:04 +0200</pubDate>
+ <dc:creator>Méguy Solvet</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/prestashop-1-7-6</guid>
+  </item>
+  <item>
+    <title>How to reduce the size and weight of your eCommerce photos</title>
+    <link>https://www.prestashop.com/en/blog/reduce-size-weight-photos</link>
+    <description>Do you know the real importance of reducing the weight and size of photos on your PrestaShop store&#039;s website?</description>
+     <pubDate>Tue, 02 Jul 2019 16:39:16 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/reduce-size-weight-photos</guid>
+  </item>
+  <item>
+    <title>The importance of social networks for your ecommerce</title>
+    <link>https://www.prestashop.com/en/blog/social-netwoks-ecommerce</link>
+    <description>The social networks</description>
+     <pubDate>Thu, 27 Jun 2019 16:57:13 +0200</pubDate>
+ <dc:creator>Code Sphere Network</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/social-netwoks-ecommerce</guid>
+  </item>
+  <item>
+    <title>3 challenges to expand your logistics internationally</title>
+    <link>https://www.prestashop.com/en/blog/expand-your-logistics-internationally</link>
+    <description>Do you know that many businesses face loss due to inefficiency to meet customers demand on time?</description>
+     <pubDate>Wed, 26 Jun 2019 10:38:00 +0200</pubDate>
+ <dc:creator>Webkul</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/en/blog/expand-your-logistics-internationally</guid>
+  </item>
+  </channel>
+</rss>
